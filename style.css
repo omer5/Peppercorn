@@ -109,6 +109,13 @@ a {
 section {
     display: block;
 }
+
+#menuimg {
+    min-height: 40vh;
+    background: url('/Peppercorn/img/menu.jpg');
+    background-size: 100% 100%;
+    width: 100%;
+}
     
 
 /* cover */
