@@ -97,20 +97,33 @@ a {
     opacity: 0.9;
 }
 
-#aboutshowcase {
-    min-height: 80vh;
+#aboutustext {
+    background-color: white;
+    width: 100%;
+    text-align: center;
+    height: 25vh;
+}
+
+#cafeimg {
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    min-height: 65vh;
+    background-color: black;
     background: url('/Peppercorn/img/peppercornshop.png') no-repeat;
     background-size: 100% 100%;
     text-align: center;
     color: #ffffff;
-    width: 100%;
+    width: 90%;
     opacity: 0.9;
+    
 }
 section {
     display: block;
 }
 
 #menuimg {
+    
     min-height: 40vh;
     background: url('/Peppercorn/img/menu.jpg');
     background-size: 100% 100%;
